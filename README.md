@@ -1,7 +1,7 @@
 # Markdown-Practice
 This is my first attempt at a markdown.
 # What is Markdown?
-Markdown files are indicated with a *.md* ending.
+Markdown files are indicated with a _.md_ ending.
 ## Who uses Markdown?
 Many sites like Discord, Reddit, and GitHub uses markdown.
 ## Why use Markdown?
@@ -22,10 +22,10 @@ If you don't know what iskender is, you can can click on the link below to take 
 
 I also have homework for some of my classes 😓
 I listed all my classes down below, and crossed out ones where I don't have work.
--[x] US History
--[] Physics
--[] Artificial Intel. Fundementals
--[x] IT Foundations
+- [x] US History
+- [ ] Physics
+- [ ] Artificial Intel. Fundementals
+- [x] IT Foundations
 
 I also like watching all kinds of TV.
 I watch:
@@ -41,9 +41,26 @@ I watch:
   - Bleach
   - JJK
   - JoJo's Bizarre Adventures
-My favorite anime is probably *Bleach*.
-I really like the protagonist, *Ichigo*.
-Here's a picture of him:
 
+My favorite anime is probably **Bleach**.  
+I really like the protagonist, **Ichigo**.  
+![Ichigo](ichigo.jpg)
+
+In soccer, I support the Turkish team Galatasaray, which is the best team in the league 😎  
+To solidify our greatness, let's compare some statistics with other top teams in the league
+|   Team Name| Titles Won|
+|-----------:|:----------|
+| Galatasaray|         26|
+|  Fenerbahce|         19|
+|    Besiktas|         16|
+| Trabzonspor|          7|
+
+I also know how to code!
+```
+  ichigo = "Best protagonist OAT"
+  print(ichigo)
+  print("Is that correct?"
+  print(f"This statement is infact {1 == 1}")
+```
 
 [1]: https://www.hungrypaprikas.com/iskender-kebab/
