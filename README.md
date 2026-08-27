@@ -1,4 +1,4 @@
-# Markdown-Practice
+# Markdown Practice
 This is my first attempt at a markdown.
 # What is Markdown?
 Markdown files are indicated with a _.md_ ending.
