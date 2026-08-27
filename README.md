@@ -12,13 +12,18 @@ I really like playing sports. Including but not limited to:
 - Soccer
 - Volleyball
 - Football
+
 However, if I had to choose a favorite, I'd have to go with *soccer*.
+
+
 I love eating food too. If I had to rank it, it'd be like this
 1. Iskender (Turkish food)
 2. Burgers
 3. Fried Chicken
+
 If you don't know what iskender is, you can can click on the link below to take a look.  
   [Learn about Iskender!][1]
+
 
 I also have homework for some of my classes 😓
 I listed all my classes down below, and crossed out ones where I don't have work.
@@ -59,7 +64,7 @@ I also know how to code!
 ```
   ichigo = "Best protagonist OAT"
   print(ichigo)
-  print("Is that correct?"
+  print("Is that correct?")
   print(f"This statement is infact {1 == 1}")
 ```
 
