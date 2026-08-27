@@ -61,11 +61,11 @@ To solidify our greatness, let's compare some statistics with other top teams in
 | Trabzonspor|          7|
 
 I also know how to code!
-```
-  ichigo = "Best protagonist OAT"
-  print(ichigo)
-  print("Is that correct?")
-  print(f"This statement is infact {1 == 1}")
+```python
+ichigo = "Best protagonist OAT"
+print(ichigo)
+print("Is that correct?")
+print(f"This statement is infact {1 == 1}")
 ```
 
 [1]: https://www.hungrypaprikas.com/iskender-kebab/
